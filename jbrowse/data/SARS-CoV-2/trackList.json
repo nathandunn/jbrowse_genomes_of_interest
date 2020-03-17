@@ -103,7 +103,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR10903401",
          "label" : "SRR10903401",
          "maxHeight" : 3000,
@@ -121,7 +121,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR10903402",
          "label" : "SRR10903402",
          "maxHeight" : 3000,
@@ -139,7 +139,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR10971381",
          "label" : "SRR10971381",
          "maxHeight" : 3000,
@@ -157,7 +157,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR11140744",
          "label" : "SRR11140744",
          "maxHeight" : 3000,
@@ -175,7 +175,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR11140746",
          "label" : "SRR11140746",
          "maxHeight" : 3000,
@@ -193,7 +193,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR11140748",
          "label" : "SRR11140748",
          "maxHeight" : 3000,
@@ -211,7 +211,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR11140750",
          "label" : "SRR11140750",
          "maxHeight" : 3000,
@@ -229,7 +229,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR11241254",
          "label" : "SRR11241254",
          "maxHeight" : 3000,
@@ -247,7 +247,7 @@
       },
       {
          "category" : "Variants",
-         "glyph" : "wormbase-glyphs/View/FeatureGlyph/Diamond",
+         "glyph" : "WormbaseGlyphs/View/FeatureGlyph/Diamond",
          "key" : "SRR11241255",
          "label" : "SRR11241255",
          "maxHeight" : 3000,
